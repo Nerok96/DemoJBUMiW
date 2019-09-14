@@ -7,7 +7,7 @@ branches:
 notifications:
   email:
     recipients:
-      - j.bernal@upm.es
+      - nerok96@gmail.com
 # services:
 # - mysql
 # - mongodb
